@@ -9,7 +9,8 @@ To run the file, make sure you already installed PyGame in your computer. If you
 
 And you're good to go. 
 
-This project is inspired by Dung Lai Lap Trinh
+
+ <i> This project is inspired by Dung Lai Lap Trinh
 
 
 
